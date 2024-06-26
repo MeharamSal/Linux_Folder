@@ -19,11 +19,11 @@ Instructions for Downloading Firefox through a Linux Virtual Machine.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Linux Ubunto
+- Linux Ubuntu
 
 <h2>List of Prerequisites</h2>
 
-- Create Key in Microsoft Powershell
+- Create a Key in Microsoft Powershell
 - Connect to Terminal on VM
 - Login
 - Prepare download
